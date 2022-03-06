@@ -1,0 +1,12 @@
+D:\Visual Studio\Projects\CarShopGUI\bin\Debug\CarShopGUI.exe
+D:\Visual Studio\Projects\CarShopGUI\bin\Debug\CarShopGUI.pdb
+D:\Visual Studio\Projects\CarShopGUI\obj\Debug\CarShopGUI.csproj.AssemblyReference.cache
+D:\Visual Studio\Projects\CarShopGUI\obj\Debug\CarShopGUI.Form1.resources
+D:\Visual Studio\Projects\CarShopGUI\obj\Debug\CarShopGUI.Properties.Resources.resources
+D:\Visual Studio\Projects\CarShopGUI\obj\Debug\CarShopGUI.csproj.GenerateResource.cache
+D:\Visual Studio\Projects\CarShopGUI\obj\Debug\CarShopGUI.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\CarShopGUI\obj\Debug\CarShopGUI.exe
+D:\Visual Studio\Projects\CarShopGUI\obj\Debug\CarShopGUI.pdb
+D:\Visual Studio\Projects\CarShopGUI\bin\Debug\CarClassLibraryWorking.dll
+D:\Visual Studio\Projects\CarShopGUI\bin\Debug\CarClassLibraryWorking.pdb
+D:\Visual Studio\Projects\CarShopGUI\obj\Debug\CarShopGUI.csproj.CopyComplete
