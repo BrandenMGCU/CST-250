@@ -1,0 +1,2 @@
+D:\Visual Studio\Projects\Milestone1\obj\Debug\Milestone1.csproj.AssemblyReference.cache
+D:\Visual Studio\Projects\Milestone1\obj\Debug\Milestone1.csproj.CoreCompileInputs.cache
