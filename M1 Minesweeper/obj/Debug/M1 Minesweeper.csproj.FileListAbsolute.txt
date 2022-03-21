@@ -1,0 +1,9 @@
+D:\Visual Studio\Projects\M1 Minesweeper\obj\Debug\M1 Minesweeper.csproj.AssemblyReference.cache
+D:\Visual Studio\Projects\M1 Minesweeper\obj\Debug\M1 Minesweeper.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\M1 Minesweeper\bin\Debug\M1 Minesweeper.exe
+D:\Visual Studio\Projects\M1 Minesweeper\bin\Debug\M1 Minesweeper.pdb
+D:\Visual Studio\Projects\M1 Minesweeper\bin\Debug\MinesweeperModel1.dll
+D:\Visual Studio\Projects\M1 Minesweeper\bin\Debug\MinesweeperModel1.pdb
+D:\Visual Studio\Projects\M1 Minesweeper\obj\Debug\M1 Minesweeper.csproj.CopyComplete
+D:\Visual Studio\Projects\M1 Minesweeper\obj\Debug\M1 Minesweeper.exe
+D:\Visual Studio\Projects\M1 Minesweeper\obj\Debug\M1 Minesweeper.pdb
