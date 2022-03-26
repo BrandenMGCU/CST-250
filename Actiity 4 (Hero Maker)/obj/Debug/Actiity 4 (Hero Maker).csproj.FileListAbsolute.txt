@@ -1,0 +1,12 @@
+C:\Users\Branden\source\repos\Actiity 4 (Hero Maker)\bin\Debug\Actiity 4 (Hero Maker).exe.config
+C:\Users\Branden\source\repos\Actiity 4 (Hero Maker)\bin\Debug\Actiity 4 (Hero Maker).exe
+C:\Users\Branden\source\repos\Actiity 4 (Hero Maker)\bin\Debug\Actiity 4 (Hero Maker).pdb
+C:\Users\Branden\source\repos\Actiity 4 (Hero Maker)\obj\Debug\Actiity 4 (Hero Maker).csproj.AssemblyReference.cache
+C:\Users\Branden\source\repos\Actiity 4 (Hero Maker)\obj\Debug\Actiity 4 (Hero Maker).csproj.SuggestedBindingRedirects.cache
+C:\Users\Branden\source\repos\Actiity 4 (Hero Maker)\obj\Debug\Actiity_4__Hero_Maker_.Form1.resources
+C:\Users\Branden\source\repos\Actiity 4 (Hero Maker)\obj\Debug\Actiity_4__Hero_Maker_.Properties.Resources.resources
+C:\Users\Branden\source\repos\Actiity 4 (Hero Maker)\obj\Debug\Actiity 4 (Hero Maker).csproj.GenerateResource.cache
+C:\Users\Branden\source\repos\Actiity 4 (Hero Maker)\obj\Debug\Actiity 4 (Hero Maker).csproj.CoreCompileInputs.cache
+C:\Users\Branden\source\repos\Actiity 4 (Hero Maker)\obj\Debug\Actiity 4 (Hero Maker).exe
+C:\Users\Branden\source\repos\Actiity 4 (Hero Maker)\obj\Debug\Actiity 4 (Hero Maker).pdb
+C:\Users\Branden\source\repos\Actiity 4 (Hero Maker)\obj\Debug\Actiity_4__Hero_Maker_.Form2.resources
