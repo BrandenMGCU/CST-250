@@ -1,0 +1,11 @@
+C:\Users\Branden\source\repos\People List Gui\bin\Debug\People List Gui.exe.config
+C:\Users\Branden\source\repos\People List Gui\bin\Debug\People List Gui.exe
+C:\Users\Branden\source\repos\People List Gui\bin\Debug\People List Gui.pdb
+C:\Users\Branden\source\repos\People List Gui\obj\Debug\People List Gui.csproj.AssemblyReference.cache
+C:\Users\Branden\source\repos\People List Gui\obj\Debug\People List Gui.csproj.SuggestedBindingRedirects.cache
+C:\Users\Branden\source\repos\People List Gui\obj\Debug\People_List_Gui.Form1.resources
+C:\Users\Branden\source\repos\People List Gui\obj\Debug\People_List_Gui.Properties.Resources.resources
+C:\Users\Branden\source\repos\People List Gui\obj\Debug\People List Gui.csproj.GenerateResource.cache
+C:\Users\Branden\source\repos\People List Gui\obj\Debug\People List Gui.csproj.CoreCompileInputs.cache
+C:\Users\Branden\source\repos\People List Gui\obj\Debug\People List Gui.exe
+C:\Users\Branden\source\repos\People List Gui\obj\Debug\People List Gui.pdb
