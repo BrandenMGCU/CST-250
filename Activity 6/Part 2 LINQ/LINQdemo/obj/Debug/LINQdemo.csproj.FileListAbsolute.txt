@@ -1,0 +1,8 @@
+C:\Users\Branden\source\repos\LINQdemo\bin\Debug\LINQdemo.exe.config
+C:\Users\Branden\source\repos\LINQdemo\bin\Debug\LINQdemo.exe
+C:\Users\Branden\source\repos\LINQdemo\bin\Debug\LINQdemo.pdb
+C:\Users\Branden\source\repos\LINQdemo\obj\Debug\LINQdemo.csproj.AssemblyReference.cache
+C:\Users\Branden\source\repos\LINQdemo\obj\Debug\LINQdemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Branden\source\repos\LINQdemo\obj\Debug\LINQdemo.csproj.CoreCompileInputs.cache
+C:\Users\Branden\source\repos\LINQdemo\obj\Debug\LINQdemo.exe
+C:\Users\Branden\source\repos\LINQdemo\obj\Debug\LINQdemo.pdb
