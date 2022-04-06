@@ -1,0 +1,8 @@
+C:\Users\Branden\source\repos\TextFileDataAccessDemo\bin\Debug\TextFileDataAccessDemo.exe.config
+C:\Users\Branden\source\repos\TextFileDataAccessDemo\bin\Debug\TextFileDataAccessDemo.exe
+C:\Users\Branden\source\repos\TextFileDataAccessDemo\bin\Debug\TextFileDataAccessDemo.pdb
+C:\Users\Branden\source\repos\TextFileDataAccessDemo\obj\Debug\TextFileDataAccessDemo.csproj.AssemblyReference.cache
+C:\Users\Branden\source\repos\TextFileDataAccessDemo\obj\Debug\TextFileDataAccessDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Branden\source\repos\TextFileDataAccessDemo\obj\Debug\TextFileDataAccessDemo.csproj.CoreCompileInputs.cache
+C:\Users\Branden\source\repos\TextFileDataAccessDemo\obj\Debug\TextFileDataAccessDemo.exe
+C:\Users\Branden\source\repos\TextFileDataAccessDemo\obj\Debug\TextFileDataAccessDemo.pdb
