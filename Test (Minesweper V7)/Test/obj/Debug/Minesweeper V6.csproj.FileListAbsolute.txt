@@ -1,0 +1,16 @@
+C:\Users\Branden\source\repos\Test\bin\Debug\Test.exe.config
+C:\Users\Branden\source\repos\Test\bin\Debug\Test.exe
+C:\Users\Branden\source\repos\Test\bin\Debug\Test.pdb
+C:\Users\Branden\source\repos\Test\bin\Debug\Interop.WMPLib.dll
+C:\Users\Branden\source\repos\Test\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Branden\source\repos\Test\obj\Debug\Minesweeper V6.csproj.AssemblyReference.cache
+C:\Users\Branden\source\repos\Test\obj\Debug\Minesweeper V6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Branden\source\repos\Test\obj\Debug\Interop.WMPLib.dll
+C:\Users\Branden\source\repos\Test\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Branden\source\repos\Test\obj\Debug\Minesweeper V6.csproj.ResolveComReference.cache
+C:\Users\Branden\source\repos\Test\obj\Debug\Test.Form1.resources
+C:\Users\Branden\source\repos\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Branden\source\repos\Test\obj\Debug\Minesweeper V6.csproj.GenerateResource.cache
+C:\Users\Branden\source\repos\Test\obj\Debug\Minesweeper V6.csproj.CoreCompileInputs.cache
+C:\Users\Branden\source\repos\Test\obj\Debug\Test.exe
+C:\Users\Branden\source\repos\Test\obj\Debug\Test.pdb
